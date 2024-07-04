@@ -1,0 +1,10 @@
+C:\Users\alimu\Desktop\project\CPU-Scheduling-Algorithms\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.exe.config
+C:\Users\alimu\Desktop\project\CPU-Scheduling-Algorithms\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.exe
+C:\Users\alimu\Desktop\project\CPU-Scheduling-Algorithms\CPU Scheduling Algorithms\bin\Debug\CPU Scheduling Algorithms.pdb
+C:\Users\alimu\Desktop\project\CPU-Scheduling-Algorithms\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.AssemblyReference.cache
+C:\Users\alimu\Desktop\project\CPU-Scheduling-Algorithms\CPU Scheduling Algorithms\obj\Debug\CPU_Scheduling_Algorithms.MainForm.resources
+C:\Users\alimu\Desktop\project\CPU-Scheduling-Algorithms\CPU Scheduling Algorithms\obj\Debug\CPU_Scheduling_Algorithms.Properties.Resources.resources
+C:\Users\alimu\Desktop\project\CPU-Scheduling-Algorithms\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.GenerateResource.cache
+C:\Users\alimu\Desktop\project\CPU-Scheduling-Algorithms\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\alimu\Desktop\project\CPU-Scheduling-Algorithms\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.exe
+C:\Users\alimu\Desktop\project\CPU-Scheduling-Algorithms\CPU Scheduling Algorithms\obj\Debug\CPU Scheduling Algorithms.pdb
